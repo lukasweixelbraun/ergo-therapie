@@ -1,4 +1,5 @@
 import { NextPage } from "next";
+import Image from 'next/image'
 import styles from '../styles/Rota.module.scss'
 
 const Rota: NextPage = () => {
@@ -6,6 +7,7 @@ const Rota: NextPage = () => {
     <div id="rota" className="page full-page row gx-4 gx-lg-5 justify-content-center">
       <div className="col-md-10 col-lg-8 col-xl-7">
         <h2>Rota® Therapie</h2>
+        <Image src="/rota.jpeg" alt="Rota Therapie" width={500} height={200} />
         <p>
           Durch Körperübungen, die eine Rotation der Wirbelsäule, als auch Rotation des Körpers um seine Achsen im Raum
           beinhalten, wird das Gehirn angeregt, die Körperspannung optimal zu regulieren. Verspannungen, die durch

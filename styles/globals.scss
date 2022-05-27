@@ -211,11 +211,6 @@ header.masthead .post-heading .meta a {
   }
 }
 
-.fill-row {
-  background-color: #dddddd;
-  border: 1px solid #888;
-}
-
 #ergo-explained {
   min-height: 30vh;
 }
@@ -231,10 +226,21 @@ header.masthead .post-heading .meta a {
   max-width: 95%;
 }
 
+.therapy-page {
+  margin-top: 15vh !important;
+  padding: 0;
+}
+
+.therapy-item {
+  height: calc(100% - 1rem - 30px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10%;
+}
+
 .therapy-card {
-  float: left;
-  margin: 1rem;
-  width: 30%;
+  width: 50%;
   height: 410px;
 }
 
@@ -243,5 +249,19 @@ h3.heading {
 }
 
 .row {
-  margin: 0 !important;
+  margin: 0;
+}
+
+.carousel {
+  background-color: #dddddd;
+  height : 70vh;
+}
+
+.carousel-inner {
+  height : 100%;
+  padding : 0 14%;
+}
+
+.carousel-item {
+  height: 100%;
 }
