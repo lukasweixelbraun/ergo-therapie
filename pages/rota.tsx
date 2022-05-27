@@ -5,7 +5,7 @@ import styles from '../styles/Rota.module.scss'
 const Rota: NextPage = () => {
   return (
     <div id="rota" className="page full-page row gx-4 gx-lg-5 justify-content-center">
-      <div className="col-md-10 col-lg-8 col-xl-7">
+      <div className="col-md-10 col-lg-9 col-xl-8">
         <h2>Rota® Therapie</h2>
         <Image src="/rota.jpeg" alt="Rota Therapie" width={500} height={200} />
         <p>

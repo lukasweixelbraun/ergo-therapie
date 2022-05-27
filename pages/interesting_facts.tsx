@@ -4,7 +4,7 @@ import styles from '../styles/InterestingFacts.module.scss'
 const InterestingFacts: NextPage = () => {
   return (
     <div id="good-to-know" className="page full-page row gx-4 gx-lg-5 justify-content-center">
-      <div className="col-md-10 col-lg-8 col-xl-7">
+      <div className="col-md-10 col-lg-9 col-xl-8">
         <h2>Wissenswertes</h2>
         <p>Für die Ergotherapie ist eine ärztliche Verordnung nötig. Diese sollte wie folgt ausgestellt sein:</p>
         <p>10x Ergotherapie à 45 Minuten (bei orthopädischem Schwerpunkt à 30 Minuten – gegebenenfalls mit

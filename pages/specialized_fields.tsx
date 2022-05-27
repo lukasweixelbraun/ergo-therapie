@@ -4,7 +4,7 @@ import styles from '../styles/SpecializedFields.module.scss'
 const SpecilaziedFields: NextPage = () => {
   return (
     <div id="special-fields" className="page full-page row gx-4 gx-lg-5 justify-content-center">
-      <div className="col-md-10 col-lg-8 col-xl-7">
+      <div className="col-md-10 col-lg-9 col-xl-8">
         <h2>Fachbereiche</h2>
         <div>
           <h3 className="heading">Pädiatrie</h3>
