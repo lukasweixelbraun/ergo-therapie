@@ -4,9 +4,9 @@ import styles from '../styles/Rota.module.scss'
 
 const Rota: NextPage = () => {
   return (
-    <div id="rota" className="page full-page row gx-4 gx-lg-5 justify-content-center">
+    <div id="rota" className="page full-page row gx-4 gx-lg-5 justify-content-center border-bottom">
       <div className="col-md-10 col-lg-9 col-xl-8">
-        <h2>Rota® Therapie</h2>
+        <h2 className="headline">Rota® Therapie</h2>
         <Image src="/rota.jpeg" alt="Rota Therapie" width={500} height={200} />
         <p>
           Durch Körperübungen, die eine Rotation der Wirbelsäule, als auch Rotation des Körpers um seine Achsen im Raum

@@ -241,7 +241,6 @@ header.masthead .post-heading .meta a {
 
 .therapy-card {
   width: 50%;
-  height: 410px;
 }
 
 h3.heading {
@@ -254,6 +253,9 @@ h3.heading {
 
 .carousel {
   background-color: #dddddd;
+  background-image: url("../public/color-unsplash.jpg");
+  background-size: cover;
+  background-position: bottom;
   height : 70vh;
 }
 
@@ -266,14 +268,38 @@ h3.heading {
   height: 100%;
 }
 
-.img-about-me {
-  float: right;
-}
-
-.txt-about-me {
-  float: left;
-}
-
 .werdegang-container {
   clear: both;
+}
+
+
+
+.generic-block {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.generic-block .left, .generic-block .right {
+  width: 45%;
+}
+
+.border-top {
+  border-top: 1px solid #e6ecf1;
+}
+
+.border-bottom {
+  border-bottom: 1px solid #e6ecf1;
+}
+
+.headline {
+  font-weight: 600;
+}
+
+td.year {
+  width: 180px;
+}
+
+h5.card-title.center {
+  text-align: center;
 }
