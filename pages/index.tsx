@@ -24,7 +24,9 @@ const Home: NextPage = () => {
           content="Ich bin freiberufliche Ergotherapeutin im Bezirk Gmünd. Ich arbeite vor allem mit Kindern, Säuglingen und PatientInnen mit orthopädischen, rheumatologischen und handchirurgischen Krankheitsbildern." />
         <meta name="keywords"
           content="Waldviertel Therapie, Waldviertel, Therapie, Madlen Weixelbraun, Madlen, Weixelbraun, Daniel Welser, Daniel, Welser, Ergotherapie, Ergotherapeutin, Physiotherapie, Physiotherapeut, w4tel-therapie, w4tel" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+
         <meta name="author" content="Lukas Weixelbraun" />
 
         <meta property="og:title" content="Waldviertel Therapie | Madlen Weixelbraun & Daniel Welser" />
@@ -70,7 +72,7 @@ const Home: NextPage = () => {
       </nav>
 
       <header id="home" className="masthead">
-        <div className="container position-relative px-5 px-lg-6">
+        <div className="container position-relative px-3 px-md-5">
           <div className="row gx-5 gx-lg-6 justify-content-center">
             <div className="col-md-12 col-lg-12 col-xl-10">
               <div className="site-heading">

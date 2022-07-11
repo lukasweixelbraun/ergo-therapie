@@ -7,7 +7,7 @@ const SpecilaziedFields: NextPage = () => {
       <div className="col-md-10 col-lg-9 col-xl-8">
         <h2 className="headline">Fachbereiche</h2>
         <div>
-          <h3 className="heading">Pädiatrie</h3>
+          <h3 className="heading darkorange">Pädiatrie</h3>
           <p>
             In der Pädiatrie wird die Ergotherapie einerseits bei Kindern eingesetzt, die in ihrer körperlichen,
             geistigen oder sozialen Entwicklung gegenüber Gleichaltrigen beeinträchtigt sind. Andererseits bei Problemen
@@ -26,7 +26,7 @@ const SpecilaziedFields: NextPage = () => {
             <li>Regulationsstörungen bei Säuglingen und Kleinkindern</li>
           </ul>
           <hr />
-          <h5>Ich biete folgende Maßnahmen an:</h5>
+          <h5 className="mt-5">Ich biete folgende Maßnahmen an:</h5>
           <ul>
             <li>Ergonomie in der Schwangerschaft und Neugeborenen</li>
             <li>Erarbeitung einer optimalen Still- und Fütterposition</li>
@@ -41,8 +41,8 @@ const SpecilaziedFields: NextPage = () => {
           </ul>
         </div>
 
-        <div>
-          <h3 className="heading">Orthopädie, Rheumatologie und Handchirurgie</h3>
+        <div className="mt-5">
+          <h3 className="heading darkorange">Orthopädie, Rheumatologie und Handchirurgie</h3>
           <p>
             In der Orthopädie, Rheumatologie und Handchirurgie wird die Ergotherapie bei Verletzungen des Stütz- und
             Bewegungsapparates, bei Erkrankungen aus dem rheumatischen Formenkreis oder bei Menschen, die aufgrund von
@@ -65,7 +65,7 @@ const SpecilaziedFields: NextPage = () => {
             <li>Morbus Dupuytren</li>
           </ul>
           <hr />
-          <h5>Ich biete folgende Maßnahmen an:</h5>
+          <h5 className="mt-5">Ich biete folgende Maßnahmen an:</h5>
           <ul>
             <li>Erarbeitung und Erhalt von physiologischen Bewegungen mittels Koordinations- und Feinmotoriktraining
               sowie Kraft- und Ausdauertraining</li>
@@ -81,8 +81,8 @@ const SpecilaziedFields: NextPage = () => {
           </ul>
         </div>
 
-        <div>
-          <h3 className="heading">Neurologie</h3>
+        <div className="mt-5">
+          <h3 className="heading darkorange">Neurologie</h3>
           <p>
             In der Neurologie wird die Ergotherapie bei Menschen, die aufgrund von Erkrankungen oder Verletzungen des
             Nervensystems Probleme in der Bewältigung ihres Alltags haben, eingesetzt. Folgende Arbeitsfelder fallen in
@@ -96,7 +96,7 @@ const SpecilaziedFields: NextPage = () => {
             <li>peripheren Nervenläsionen und Polyneuropathien</li>
           </ul>
           <hr />
-          <h5>Ich biete folgende Maßnahmen an:</h5>
+          <h5 className="mt-5">Ich biete folgende Maßnahmen an:</h5>
           <ul>
             <li>Therapie sensomotorischer Fertigkeiten (Beweglichkeit, Koordination, Körperwahrnehmung, Belastbarkeit,
               Ausdauer, ...)</li>
@@ -106,8 +106,8 @@ const SpecilaziedFields: NextPage = () => {
           </ul>
         </div>
 
-        <div>
-          <h3 className="heading">Workshops/ Angebote</h3>
+        <div className="mt-5">
+          <h3 className="heading darkorange">Workshops/ Angebote</h3>
           <ul>
             <li>Babymassagen</li>
             <li>Demenzgruppe</li>

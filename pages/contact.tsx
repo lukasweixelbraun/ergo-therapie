@@ -7,10 +7,6 @@ const Contact: NextPage = () => {
     <div id="contact" className="page full-page row gx-4 gx-lg-5 justify-content-center">
       <div className="generic-block">
         <div className="left">
-          <Image src="/portrait.jpeg" alt="Portrait" width={360} height={480} />
-        </div>
-
-        <div className="right">
           <h2 className="headline">Kontakt</h2>
 
           <h4>Telefon</h4>
@@ -24,6 +20,10 @@ const Contact: NextPage = () => {
             <li>Josef-Strommer-Straße 24, 3580 Horn</li>
             <li>Breinleiten 18, 3950 Gmünd - Großeibenstein</li>
           </ul>
+        </div>
+
+        <div className="right">
+          <Image src="/portrait.jpeg" alt="Portrait" width={360} height={480} />
         </div>
       </div>
     </div>

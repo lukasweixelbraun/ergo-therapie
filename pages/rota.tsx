@@ -19,7 +19,7 @@ const Rota: NextPage = () => {
           (Rota Therapie, 2021)
         </p>
 
-        <h3 className="heading">Für wen ist diese Therapieform?</h3>
+        <h3 className="heading mt-5">Für wen ist diese Therapieform?</h3>
         <p>
           Durch Körperübungen, die eine Rotation der Wirbelsäule, als auch Rotation des Körpers um seine Achsen im Raum
           beinhalten, wird das Gehirn angeregt, die Körperspannung optimal zu regulieren. Verspannungen, die durch
@@ -31,7 +31,7 @@ const Rota: NextPage = () => {
           (Rota Therapie, 2021)
         </p>
 
-        <h3 className="heading">Die Besonderheiten</h3>
+        <h3 className="heading mt-5">Die Besonderheiten</h3>
         <ul>
           <li>Ein individuelles und abgestimmtes Übungsprogramm für Zuhause</li>
           <li>Einschließlich Impulse für den Mund</li>

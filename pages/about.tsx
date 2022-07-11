@@ -24,7 +24,7 @@ const About: NextPage = () => {
             </div>
           </div>
           
-          <div className="werdegang-container">
+          <div className="werdegang-container mt-5">
             <h3 className="heading">Beruflicher Werdegang</h3>
             <table>
               <tbody>
@@ -56,7 +56,7 @@ const About: NextPage = () => {
             </table>
           </div>
           
-          <div className="fortbildung-container">
+          <div className="fortbildung-container mt-5">
             <h3 className="heading">Forbildungen</h3>
             <table>
               <tbody>
