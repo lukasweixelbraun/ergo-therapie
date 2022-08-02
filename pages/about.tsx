@@ -12,7 +12,7 @@ const About: NextPage = () => {
             <div className="left">
               <h2 className="headline">Über mich</h2>
 
-              <p className="txt-about-me">Mein Name ist Madlen Weixelbraun und ich bin <b>Vertragstherapeutin</b> im Bezirk Horn und <b>Wahltherapeutin</b> im Bezirk Gmünd. <br />
+              <p className="txt-about-me">Mein Name ist Madlen Weixelbraun und ich bin <b>Vertragstherapeutin</b> im Bezirk Horn und Gmünd. <br />
                 <br />
                 Ich arbeite vor allem mit Kindern, Säuglingen und PatientInnen mit orthopädischen, rheumatischen,
                 handchirurgischen und neurologischen Krankheitsbildern.
@@ -20,7 +20,7 @@ const About: NextPage = () => {
             </div>
 
             <div className="right">
-              <Image src="/aboutMe.jpeg" alt="About me Portrait" width={450} height={675} />
+              <Image src="/aboutMe.jpeg" alt="About me Portrait" width={450} height={675} loading="lazy" />
             </div>
           </div>
           
@@ -107,7 +107,7 @@ const About: NextPage = () => {
             <div className="carousel-item active" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image className="card-img-top" src="/feinmotorik.jpeg" alt="Feinmotoriktraining" width={80} height={420} />
+                  <Image className="card-img-top" src="/feinmotorik.jpeg" alt="Feinmotoriktraining" width={80} height={420} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Feinmotoriktraining</h5>
                   </div>
@@ -118,7 +118,7 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image className="card-img-top" src="/beweglichkeit.jpeg" alt="Maßnahmen zur Verbesserung der Beweglichkeit" width={120} height={420} />
+                  <Image className="card-img-top" src="/beweglichkeit.jpeg" alt="Maßnahmen zur Verbesserung der Beweglichkeit" width={120} height={420} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Maßnahmen zur Verbesserung der Beweglichkeit</h5>
                   </div>
@@ -129,7 +129,7 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image src="/narbe.jpeg" alt="Narbenbehandlung" width={280} height={420} />
+                  <Image src="/narbe.jpeg" alt="Narbenbehandlung" width={280} height={420} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Narbenbehandlung</h5>
                   </div>
@@ -140,7 +140,7 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image className="card-img-top" src="/krafttraining.jpeg" alt="Krafttraining" width={120} height={460} />
+                  <Image className="card-img-top" src="/krafttraining.jpeg" alt="Krafttraining" width={120} height={460} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Krafttraining</h5>
                   </div>
@@ -151,7 +151,7 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image className="card-img-top" src="/igelball.jpeg" alt="Sensibilitätstraining" width={120} height={420} />
+                  <Image className="card-img-top" src="/sensibilitaet.jpeg" alt="Sensibilitätstraining" width={120} height={420} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Sensibilitätstraining</h5>
                   </div>
@@ -162,7 +162,7 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <Image className="card-img-top" src="/babyrota.jpeg" alt="Rotatherapie" width={120} height={460} />
+                  <Image className="card-img-top" src="/babyrota.jpeg" alt="Rotatherapie" width={120} height={460} loading="lazy" />
                   <div className="card-body">
                     <h5 className="card-title center">Rotatherapie</h5>
                   </div>

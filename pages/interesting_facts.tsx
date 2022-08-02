@@ -28,20 +28,7 @@ const InterestingFacts: NextPage = () => {
         </p>
 
         <h3 className="heading mt-5">Tarife</h3>
-        <p><i>nur im Bezrik Gmünd relevant</i></p>
-
-        <h4 className="mt-3">Ergotherapie: </h4>
-        <ul>
-          <li>á 60 Minuten - 80€</li>
-          <li>á 45 Minuten - 63€</li>
-          <li>á 30 Minuten - 43€</li>
-        </ul>
-
-        <h4 className="mt-3">Hausbesuchspauschale: </h4>
-        <ul>
-          <li>25€</li>
-          <li>+ Kilometergeld (0,42€ bis max. 25 Kilometer)</li>
-        </ul>
+        <p><i>wird mit den jeweiligen Krankenkassen abgerechnet</i></p>
 
         <h4 className="mt-3">Workshops: </h4>
         <ul>

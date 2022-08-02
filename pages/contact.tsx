@@ -23,7 +23,7 @@ const Contact: NextPage = () => {
         </div>
 
         <div className="right">
-          <Image src="/portrait.jpeg" alt="Portrait" width={360} height={480} />
+          <Image src="/portrait.jpeg" alt="Portrait" width={360} height={480} loading="lazy" />
         </div>
       </div>
     </div>

@@ -272,20 +272,27 @@ h5.card-title.center {
   text-align: center;
 }
 
-
-
 .generic-block {
-  display: block;
+  display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 10%;
 }
 
 .generic-block .left, .generic-block .right {
-  width: auto;
+  width: 50%;
 }
 
 .darkorange {
   color: darkorange;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex > .headline {
+  width: 100%;
 }
 
 /**
@@ -403,6 +410,14 @@ h5.card-title.center {
 
   .carousel {
     padding: 3rem;
+  }
+
+  .generic-block {
+    display: block;
+  }
+  
+  .generic-block .left, .generic-block .right {
+    width: auto;
   }
 } 
  

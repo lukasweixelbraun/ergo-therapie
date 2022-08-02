@@ -107,7 +107,7 @@ const SpecilaziedFields: NextPage = () => {
         </div>
 
         <div className="mt-5">
-          <h3 className="heading darkorange">Workshops/ Angebote</h3>
+          <h3 className="heading darkorange">Workshops / Angebote</h3>
           <ul>
             <li>Babymassagen</li>
             <li>Demenzgruppe</li>

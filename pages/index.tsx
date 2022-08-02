@@ -17,20 +17,18 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
-        <meta charSet="utf-8" />
         <title>Waldviertel Therapie | Madlen Weixelbraun & Daniel Welser</title>
+        <meta charSet="utf-8" />
         <meta name="description"
-          content="Ich bin freiberufliche Ergotherapeutin im Bezirk Gmünd. Ich arbeite vor allem mit Kindern, Säuglingen und PatientInnen mit orthopädischen, rheumatologischen und handchirurgischen Krankheitsbildern." />
+          content="Ich bin Madlen Weixelbraun, freiberufliche Ergotherapeutin im Waldviertel im Bezirk Gmünd und Horn. Ich arbeite vor allem mit Kindern, Säuglingen und PatientInnen mit orthopädischen, rheumatologischen und handchirurgischen Krankheitsbildern." />
         <meta name="keywords"
-          content="Waldviertel Therapie, Waldviertel, Therapie, Madlen Weixelbraun, Madlen, Weixelbraun, Daniel Welser, Daniel, Welser, Ergotherapie, Ergotherapeutin, Physiotherapie, Physiotherapeut, w4tel-therapie, w4tel" />
+          content="Madlen Weixelbraun, Waldviertel Therapie, Waldviertel, Therapie, Madlen, Weixelbraun, Daniel Welser, Daniel, Welser, Ergotherapie, Ergotherapeutin, Physiotherapie, Physiotherapeut, w4tel-therapie, w4tel" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
 
         <meta name="author" content="Lukas Weixelbraun" />
 
         <meta property="og:title" content="Waldviertel Therapie | Madlen Weixelbraun & Daniel Welser" />
-        <meta property="og:image" content="https://www.w4tel-therapie.at/media" />
         <meta property="og:url" content="https://www.w4tel-therapie.at/" />
         <meta property="og:site_name" content="Waldviertel Therapie" />
         <meta property="og:description"

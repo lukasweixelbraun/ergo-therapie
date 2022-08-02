@@ -6,8 +6,11 @@ const Rota: NextPage = () => {
   return (
     <div id="rota" className="page full-page row gx-4 gx-lg-5 justify-content-center border-bottom">
       <div className="col-md-10 col-lg-9 col-xl-8">
-        <h2 className="headline">Rota® Therapie</h2>
-        <Image src="/rota.jpeg" alt="Rota Therapie" width={500} height={200} />
+        <div className="flex">
+          <h2 className="headline">Rota® Therapie</h2>
+          <Image src="/rota.jpeg" className="right" alt="Rota Therapie" width={500} height={200} loading="lazy" />
+        </div>
+        
         <p>
           Durch Körperübungen, die eine Rotation der Wirbelsäule, als auch Rotation des Körpers um seine Achsen im Raum
           beinhalten, wird das Gehirn angeregt, die Körperspannung optimal zu regulieren. Verspannungen, die durch
