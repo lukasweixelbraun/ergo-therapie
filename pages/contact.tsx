@@ -23,7 +23,11 @@ const Contact: NextPage = () => {
         </div>
 
         <div className="right">
-          <Image src="/portrait.jpeg" alt="Portrait" width={360} height={480} loading="lazy" />
+          <picture>
+            <source srcSet="/rendered/portrait.webp" type="image/webp" />
+            <source srcSet="/rendered/portrait.jpg" type="image/jpeg" /> 
+            <img src="/rendered/portrait.jpg" alt="Portrait" loading="lazy" height={480} />
+          </picture>
         </div>
       </div>
     </div>

@@ -8,7 +8,13 @@ const Rota: NextPage = () => {
       <div className="col-md-10 col-lg-9 col-xl-8">
         <div className="flex">
           <h2 className="headline">Rota® Therapie</h2>
-          <Image src="/rota.jpeg" className="right" alt="Rota Therapie" width={500} height={200} loading="lazy" />
+
+          <picture className="right">
+            <source srcSet="/rendered/rota.webp" type="image/webp" />
+            <source srcSet="/rendered/rota.jpg" type="image/jpeg" /> 
+            <img src="/rendered/rota.jpg" alt="Rota Therapie" loading="lazy" height={150} />
+          </picture>
+          
         </div>
         
         <p>

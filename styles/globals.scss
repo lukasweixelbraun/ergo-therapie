@@ -88,7 +88,7 @@ header.masthead {
   background-color: #6c757d;
   background-size: cover;
   background-attachment: scroll;
-  background-image: url(https://images.unsplash.com/photo-1635344208286-8163a9942704?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1740&q=80)
+  background-image: url("../public/rendered/header.webp"), url("../public/rendered/header.jpg");
 }
 header.masthead:before {
   content: "";
@@ -229,7 +229,7 @@ header.masthead .post-heading .meta a {
 
 .carousel {
   background-color: #dddddd;
-  background-image: url("../public/color-unsplash.jpg");
+  background-image: url("../public/rendered/color-unsplash.webp"), url("../public/rendered/color-unsplash.jpg");
   background-size: cover;
   background-position: bottom;
   height : 70vh;
