@@ -15,20 +15,20 @@ const SpecilaziedFields: NextPage = () => {
             Krankheitsbilder fallen in meinen Aufgabenbereich:
           </p>
           <ul>
-            <li>Bewegungsstörungen oder motorischer Behinderung</li>
+            <li>Bewegungsstörungen oder motorische Behinderung</li>
             <li>Störung der Feinmotorik</li>
             <li>Störungen der Wahrnehmung und sensorischen Integration</li>
             <li>Entwicklungsverzögerungen</li>
-            <li>angeborenen Behinderungen z.B. Fehlbildungen, Morbus Down</li>
+            <li>angeborene Behinderungen z.B. Fehlbildungen, Morbus Down</li>
             <li>Sinnes- und Mehrfachbehinderungen</li>
-            <li>chronischen Erkrankungen</li>
+            <li>chronische Erkrankungen</li>
             <li>Verletzungsfolgen</li>
             <li>Regulationsstörungen bei Säuglingen und Kleinkindern</li>
           </ul>
           <hr />
           <h5 className="mt-5">Ich biete folgende Maßnahmen an:</h5>
           <ul>
-            <li>Ergonomie in der Schwangerschaft und Neugeborenen</li>
+            <li>Ergonomie in der Schwangerschaft und mit Neugeborenen</li>
             <li>Erarbeitung einer optimalen Still- und Fütterposition</li>
             <li>Baby Handling (Angelehnt an die Rota-Therapie)</li>
             <li>Ergotherapie mit Säuglingen und Kinder</li>
@@ -47,15 +47,15 @@ const SpecilaziedFields: NextPage = () => {
             In der Orthopädie, Rheumatologie und Handchirurgie wird die Ergotherapie bei Verletzungen des Stütz- und
             Bewegungsapparates, bei Erkrankungen aus dem rheumatischen Formenkreis oder bei Menschen, die aufgrund von
             Erkrankungen, Verletzungen oder Fehlbildungen der oberen Extremität Probleme bei der Bewältigung ihres
-            Alltags eingesetzt. Folgende Krankheitsbilder fallen dabei in meinen Aufgabenbereich:
+            Alltags haben, eingesetzt. Folgende Krankheitsbilder fallen dabei in meinen Aufgabenbereich:
           </p>
           <ul>
             <li>Frakturen der oberen Extremität</li>
-            <li>Verletzungen und Überlastundssyndrome</li>
+            <li>Verletzungen und Überlastungssyndrome</li>
             <li>Erkrankungen des rheumatischen Formenkreises
               <ul>
-                <li>degenerativen Gelenksveränderungen (Arthrosen)</li>
-                <li>systemischen Erkrankungen und Stoffwechselstörungen (Gicht, Osteoporose, Fibromyalgie,…)</li>
+                <li>degenerative Gelenksveränderungen (Arthrosen)</li>
+                <li>systemische Erkrankungen und Stoffwechselstörungen (Gicht, Osteoporose, Fibromyalgie,…)</li>
               </ul>
             </li>
             <li>Sehnenverletzungen und –erkrankungen</li>
@@ -91,9 +91,9 @@ const SpecilaziedFields: NextPage = () => {
           <ul>
             <li>Schlaganfall</li>
             <li>Tumore</li>
-            <li>entzündlichen und degenerativen Erkrankungen (z.B. Multiple Sklerose, Morbus Parkinson,…)</li>
+            <li>entzündliche und degenerative Erkrankungen (z.B. Multiple Sklerose, Morbus Parkinson,…)</li>
             <li>Verletzungen des zentralen Nervensystems (z.B. Schädel-Hirn-Trauma, Querschnittlähmung,…)</li>
-            <li>peripheren Nervenläsionen und Polyneuropathien</li>
+            <li>periphere Nervenläsionen und Polyneuropathien</li>
           </ul>
           <hr />
           <h5 className="mt-5">Ich biete folgende Maßnahmen an:</h5>

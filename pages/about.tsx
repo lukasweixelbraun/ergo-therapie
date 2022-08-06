@@ -57,7 +57,7 @@ const About: NextPage = () => {
           </div>
           
           <div className="fortbildung-container mt-5">
-            <h3 className="heading">Forbildungen</h3>
+            <h3 className="heading">Fortbildungen</h3>
             <table>
               <tbody>
                 <tr>
