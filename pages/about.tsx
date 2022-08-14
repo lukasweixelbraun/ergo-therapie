@@ -20,11 +20,7 @@ const About: NextPage = () => {
             </div>
 
             <div className="right">
-              <picture>
-                <source srcSet="/rendered/aboutMe.webp" type="image/webp" />
-                <source srcSet="/rendered/aboutMe.jpg" type="image/jpeg" /> 
-                <img src="/rendered/aboutMe.jpg" alt="About me Portrait" loading="lazy" height={675} />
-              </picture>
+              <Image src="/rendered/aboutMe.jpg" alt="About me Portrait" loading="lazy" height={550} width={366.44}></Image>
             </div>
           </div>
           
@@ -111,11 +107,8 @@ const About: NextPage = () => {
             <div className="carousel-item active" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/feinmotorik.webp" type="image/webp" />
-                    <source srcSet="/rendered/feinmotorik.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/feinmotorik.jpg" alt="Feinmotoriktraining" loading="lazy" height={420} />
-                  </picture>
+                  
+                  <Image src="/rendered/feinmotorik.jpg" className="card-img-top" alt="Feinmotoriktraining" loading="lazy" width={500} height={500}></Image>
                   
                   <div className="card-body">
                     <h5 className="card-title center">Feinmotoriktraining</h5>
@@ -127,11 +120,8 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/beweglichkeit.webp" type="image/webp" />
-                    <source srcSet="/rendered/beweglichkeit.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/beweglichkeit.jpg" alt="Maßnahmen zur Verbesserung der Beweglichkeit" loading="lazy" height={420} />
-                  </picture>
+                  
+                  <Image src="/rendered/beweglichkeit.jpg" className="card-img-top" alt="Maßnahmen zur Verbesserung der Beweglichkeit" loading="lazy" width={500} height={500}></Image>
 
                   <div className="card-body">
                     <h5 className="card-title center">Maßnahmen zur Verbesserung der Beweglichkeit</h5>
@@ -143,11 +133,8 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/narbe.webp" type="image/webp" />
-                    <source srcSet="/rendered/narbe.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/narbe.jpg" alt="Narbenbehandlung" loading="lazy" height={420} />
-                  </picture>
+
+                  <Image src="/rendered/narbe.jpg" className="card-img-top" alt="Narbenbehandlung" loading="lazy" width={500} height={500}></Image>
 
                   <div className="card-body">
                     <h5 className="card-title center">Narbenbehandlung</h5>
@@ -159,11 +146,8 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/krafttraining.webp" type="image/webp" />
-                    <source srcSet="/rendered/krafttraining.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/krafttraining.jpg" alt="Krafttraining" loading="lazy" height={460} />
-                  </picture>
+
+                  <Image src="/rendered/krafttraining.jpg" className="card-img-top" alt="Krafttraining" loading="lazy" width={500} height={500}></Image>
 
                   <div className="card-body">
                     <h5 className="card-title center">Krafttraining</h5>
@@ -175,11 +159,8 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/sensibilitaet.webp" type="image/webp" />
-                    <source srcSet="/rendered/sensibilitaet.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/sensibilitaet.jpg" alt="Sensibilitätstraining" loading="lazy" height={420} />
-                  </picture>
+
+                  <Image src="/rendered/sensibilitaet.jpg" className="card-img-top" alt="Sensibilitätstraining" loading="lazy" width={500} height={500}></Image>
 
                   <div className="card-body">
                     <h5 className="card-title center">Sensibilitätstraining</h5>
@@ -191,11 +172,8 @@ const About: NextPage = () => {
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
                 <div className="card mb-3 therapy-card">
-                  <picture>
-                    <source srcSet="/rendered/babyrota.webp" type="image/webp" />
-                    <source srcSet="/rendered/babyrota.jpg" type="image/jpeg" /> 
-                    <img src="/rendered/babyrota.jpg" alt="Rotatherapie" loading="lazy" height={460} />
-                  </picture>
+
+                  <Image src="/rendered/babyrota.jpg" className="card-img-top" alt="Rotatherapie" loading="lazy" width={500} height={500}></Image>
 
                   <div className="card-body">
                     <h5 className="card-title center">Rotatherapie</h5>

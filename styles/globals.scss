@@ -89,6 +89,7 @@ header.masthead {
   background-color: #6c757d;
   background-size: cover;
   background-attachment: scroll;
+  background-image: url("../public/rendered/header.jpg");
   background-image: image-set(
     url("../public/rendered/header.webp"), 
     url("../public/rendered/header.jpg")
@@ -216,7 +217,7 @@ header.masthead .post-heading .meta a {
 }
 
 .therapy-item {
-  height: calc(100% - 1rem - 30px);
+  height: calc(100% - 1rem - 50px);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -224,7 +225,7 @@ header.masthead .post-heading .meta a {
 }
 
 .therapy-card {
-  width: 50%;
+  width: 60%;
 }
 
 .row {
@@ -233,6 +234,7 @@ header.masthead .post-heading .meta a {
 
 .carousel {
   background-color: #dddddd;
+  background-image: url("../public/rendered/color-unsplash.jpg");
   background-image: image-set(
     url("../public/rendered/color-unsplash.webp"), 
     url("../public/rendered/color-unsplash.jpg")
