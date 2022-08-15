@@ -50,7 +50,7 @@ const Home: NextPage = () => {
       <nav className="nav light">
         <div className="container">
           <div className="logo">
-            <a href="#home">Your Logo</a>
+            <a href="#home">Ergo</a>
           </div>
           <div id="nav-list" className="main-list">
             <ul className="nav-links">
@@ -61,7 +61,7 @@ const Home: NextPage = () => {
               <li><a href="#contact">Kontakt</a></li>
             </ul>
           </div>
-          <span className="nav-menu">
+          <span className="nav-menu hidden">
             <i></i>
             <i></i>
             <i></i>

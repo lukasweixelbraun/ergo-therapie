@@ -59,7 +59,7 @@ const SpecilaziedFields: NextPage = () => {
               </ul>
             </li>
             <li>Sehnenverletzungen und –erkrankungen</li>
-            <li>Nervenkompressionssyndromen</li>
+            <li>Nervenkompressionssyndrome</li>
             <li>Fehlhaltungen und -belastungen der oberen Extremität (Schulter, Arm, Hand)</li>
             <li>Schmerzen und Bewegungseinschränkungen</li>
             <li>Morbus Dupuytren</li>

@@ -106,79 +106,37 @@ const About: NextPage = () => {
 
             <div className="carousel-item active" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-                  
-                  <Image src="/rendered/feinmotorik.jpg" className="card-img-top" alt="Feinmotoriktraining" loading="lazy" width={500} height={500}></Image>
-                  
-                  <div className="card-body">
-                    <h5 className="card-title center">Feinmotoriktraining</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/feinmotorik.jpg" alt="Feinmotoriktraining" loading="lazy" width={400} height={600}></Image>
               </div>
             </div>
 
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-                  
-                  <Image src="/rendered/beweglichkeit.jpg" className="card-img-top" alt="Maßnahmen zur Verbesserung der Beweglichkeit" loading="lazy" width={500} height={500}></Image>
-
-                  <div className="card-body">
-                    <h5 className="card-title center">Maßnahmen zur Verbesserung der Beweglichkeit</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/beweglichkeit.jpg" alt="Maßnahmen zur Verbesserung der Beweglichkeit" loading="lazy" width={600} height={400}></Image>
               </div>
             </div>
 
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-
-                  <Image src="/rendered/narbe.jpg" className="card-img-top" alt="Narbenbehandlung" loading="lazy" width={500} height={500}></Image>
-
-                  <div className="card-body">
-                    <h5 className="card-title center">Narbenbehandlung</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/narbe.jpg" alt="Narbenbehandlung" loading="lazy" width={600} height={400}></Image>
               </div>
             </div>
 
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-
-                  <Image src="/rendered/krafttraining.jpg" className="card-img-top" alt="Krafttraining" loading="lazy" width={500} height={500}></Image>
-
-                  <div className="card-body">
-                    <h5 className="card-title center">Krafttraining</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/krafttraining.jpg" alt="Krafttraining" loading="lazy" width={600} height={400}></Image>
               </div>
             </div>
 
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-
-                  <Image src="/rendered/sensibilitaet.jpg" className="card-img-top" alt="Sensibilitätstraining" loading="lazy" width={500} height={500}></Image>
-
-                  <div className="card-body">
-                    <h5 className="card-title center">Sensibilitätstraining</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/sensibilitaet.jpg" alt="Sensibilitätstraining" loading="lazy" width={600} height={400}></Image>
               </div>
             </div>
 
             <div className="carousel-item" data-bs-interval="6000">
               <div className="therapy-item">
-                <div className="card mb-3 therapy-card">
-
-                  <Image src="/rendered/babyrota.jpg" className="card-img-top" alt="Rotatherapie" loading="lazy" width={500} height={500}></Image>
-
-                  <div className="card-body">
-                    <h5 className="card-title center">Rotatherapie</h5>
-                  </div>
-                </div>
+                <Image src="/rendered/babyrota.jpg" alt="Rotatherapie" loading="lazy" width={600} height={400}></Image>
               </div>
             </div>
 

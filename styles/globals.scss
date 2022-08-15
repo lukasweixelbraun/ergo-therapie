@@ -80,7 +80,6 @@ footer {
 }
 
 header.masthead {
-  height: 70vh;
   position: relative;
   margin-bottom: 0;
   padding-top: calc(8rem + 57px);
@@ -257,7 +256,9 @@ header.masthead .post-heading .meta a {
   clear: both;
 }
 
-
+.hidden {
+  display: none;
+}
 
 
 

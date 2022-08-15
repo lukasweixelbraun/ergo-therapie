@@ -16,12 +16,12 @@ const Rota: NextPage = () => {
         <p>
           Durch Körperübungen, die eine Rotation der Wirbelsäule, als auch Rotation des Körpers um seine Achsen im Raum
           beinhalten, wird das Gehirn angeregt, die Körperspannung optimal zu regulieren. Verspannungen, die durch
-          verborgen noch aktive Restreflexe aus der frühen Kindheit entstehen, werden gelöst. Impulse zur Verbesserung
+          verborgene noch aktive Restreflexe aus der frühen Kindheit entstehen, werden gelöst. Impulse zur Verbesserung
           der Mundmotorik und Wahrnehmung unterstützen wesentlich die positive und ausgleichende Wirkung für eine gute
           sensomotorische Entwicklung. Die Arbeits-, Schul- und Freizeitgestaltung wird so angepasst, dass sich
-          vorhandene Symptome, Konzentrationsschwächen oder Beeinträchtigungen verbessern. Im motorischen als auch
+          vorhandene Symptome, Konzentrationsschwächen oder Beeinträchtigungen verbessern, sowohl im motorischen als auch
           vegetativen System: Essen, Schlafen, Verdauung.
-          (Rota Therapie, 2021)
+          (Rota Therapie, 2022)
         </p>
 
         <h3 className="heading mt-5">Für wen ist diese Therapieform?</h3>
@@ -33,7 +33,7 @@ const Rota: NextPage = () => {
         </p>
 
         <p>
-          Bei Säuglingen und kleinen Kindern werden die Übungen am Schoß ausgeführt, größere Kinder und Erwachsene üben 
+          Bei Säuglingen und kleinen Kindern werden die Übungen auf dem Schoß ausgeführt, größere Kinder und Erwachsene üben 
           auf dem Boden oder im Bett. Eine Rota-Position eignet sich sogar als Schlafposition und wirkt sich 
           positiv auf unser Zentralnervensystem aus.
         </p>
@@ -67,7 +67,8 @@ const Rota: NextPage = () => {
           <li>Neurologische Krankheitsbilder
             <ul>
               <li>Parkinson</li>
-              <li>MSSchlaganfall</li>
+              <li>MS</li>
+              <li>Schlaganfall</li>
             </ul>
           </li>
           <li>Spastische Bedrohung und/oder Behinderung</li>
