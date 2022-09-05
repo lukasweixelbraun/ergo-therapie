@@ -19,7 +19,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Waldviertel Therapie | Madlen Weixelbraun & Daniel Welser</title>
         <meta charSet="utf-8" />
-        <meta name=“robots“ content=“index, follow“ />
+        <meta name="robots" content="index, follow" />
         <meta name="description"
           content="Ich bin Madlen Weixelbraun, freiberufliche Ergotherapeutin im Waldviertel im Bezirk Gmünd und Horn. Ich arbeite vor allem mit Kindern, Säuglingen und PatientInnen mit orthopädischen, rheumatologischen und handchirurgischen Krankheitsbildern." />
         <meta name="keywords"
