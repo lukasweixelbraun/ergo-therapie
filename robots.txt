@@ -1,0 +1,6 @@
+# Allow all
+User-Agent: *
+Allow: /
+
+# Disallow images
+Disallow: /rendered/

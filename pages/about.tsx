@@ -30,7 +30,11 @@ const About: NextPage = () => {
               <tbody>
                 <tr>
                   <td className="year"><b>2022</b></td>
-                  <td>Kassenvertrag im Bezirk Horn (ÖGK, SVS & BVAEB)</td>
+                  <td>Kassenvertrag in Horn (ÖGK, SVS & BVAEB) und Bezirk Gmünd (ÖGK)</td>
+                </tr>
+                <tr>
+                  <td className="year"><b>2022</b></td>
+                  <td>Haus der Zuversicht</td>
                 </tr>
                 <tr>
                   <td className="year"><b>2021 - 2022</b></td>

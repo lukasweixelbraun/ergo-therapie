@@ -86,7 +86,7 @@ const SpecilaziedFields: NextPage = () => {
           <p>
             In der Neurologie wird die Ergotherapie bei Menschen, die aufgrund von Erkrankungen oder Verletzungen des
             Nervensystems Probleme in der Bewältigung ihres Alltags haben, eingesetzt. Folgende Arbeitsfelder fallen in
-            mein Aufgabenbereich:
+            meinen Tätigkeitsbereich:
           </p>
           <ul>
             <li>Schlaganfall</li>
